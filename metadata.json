@@ -1,0 +1,5 @@
+{
+  "name": "文档格式转换专家",
+  "description": "由 Gemini 2.5 驱动的智能通用文档和内容格式转换器。将文本、代码和图像转换为结构化格式，如 JSON, XML, HTML, Markdown 等。",
+  "requestFramePermissions": []
+}
